@@ -1,0 +1,9 @@
+com\yaoyao\manage\controller\PageController.class
+com\yaoyao\manage\controller\api\ApiItemController.class
+com\yaoyao\manage\controller\ContentController.class
+com\yaoyao\manage\controller\api\ApiContentController.class
+com\yaoyao\manage\controller\api\ApiItemCatController.class
+com\yaoyao\manage\controller\PicUploadController.class
+com\yaoyao\manage\controller\ItemCatController.class
+com\yaoyao\manage\controller\ContentCategoryController.class
+com\yaoyao\manage\controller\ItemController.class

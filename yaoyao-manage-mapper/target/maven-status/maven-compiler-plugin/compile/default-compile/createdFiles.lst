@@ -1,0 +1,5 @@
+com\yaoyao\manage\mapper\ItemCatMapper.class
+com\yaoyao\manage\mapper\ContentCategoryMapper.class
+com\yaoyao\manage\mapper\ItemDescMapper.class
+com\yaoyao\manage\mapper\ItemMapper.class
+com\yaoyao\manage\mapper\ContentMapper.class
